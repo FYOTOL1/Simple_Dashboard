@@ -1,0 +1,245 @@
+.d-inline-block {
+    display: inline-block;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.align-c {
+    align-items: center;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.pl-15 {
+    padding-left: 15px;
+}
+
+
+.m-0 {
+    margin: 0;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.mt-5 {
+    margin-top: 5;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+
+.w-full {
+    width: 100%;
+}
+
+.w-fit {
+    width: fit-content;
+}
+
+.wh-40 {
+    width: 40px;
+    height: 40px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-eee {
+    background-color: #eee;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-orange {
+    background-color: rgb(245 158 11 / 20%);
+}
+
+.bg-green {
+    background-color: rgb(34 197 94 / 20%);
+}
+
+.c-black {
+    color: black;
+}
+
+.c-gray {
+    color: gray;
+}
+
+.c-blue {
+    color: #0075ff;
+}
+
+.c-red {
+    color: #f44336;
+}
+
+.c-orange {
+    color: #f59e0b;
+}
+
+.c-green {
+    color: #22c55e;
+}
+
+.c-white {
+    color: white;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.text-c {
+    text-align: center;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fs-25 {
+    font-size: 25px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.b-none {
+    border: none;
+}
+
+.rad-6 {
+    border-radius: 6px;
+}
+
+.rad-10 {
+    border-radius: 10px;
+}
+
+.rad-half {
+    border-radius: 50%;
+}
+
+@media (max-width: 767px) {
+    .text-c-mobile {
+        text-align: center;
+    }
+
+    .block-mobile {
+        display: block;
+    }
+
+    .hide-mobile {
+        display: none;
+    }
+
+}
+
+/* Start Components */
+.center-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.between-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-shape {
+    padding: 4px 10px;
+    border-radius: 6px;
+}
+
+/* End Components */
